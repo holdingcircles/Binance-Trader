@@ -57,6 +57,3 @@ Finally navigate to the trader directory.
 To set up the bot and for any further detail please refer to the google doc link below:
 https://docs.google.com/document/d/1VUx_1O5kQQxk0HfqqA8WyQpk6EbbnXcezAdqXkOMklo/edit?usp=sharing
 
-### Contact
-Please if you find any bugs or issues contact me so I can improve.
-EMAIL: jlennie1996@gmail.com
